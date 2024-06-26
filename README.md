@@ -32,11 +32,11 @@ To set up this project locally, follow these steps:
    ```bash
    cd museum-of-candy
    ``` 
-3.  Open 'index.html' in your preferred web browser to view the website.
+3.  Open `index.html` in your preferred web browser to view the website.
 
 ## Usage
 
-Once you have the project set up, you can explore the website by opening 'index.html' in a web browser. The website includes the following sections:
+Once you have the project set up, you can explore the website by opening `index.html` in a web browser. The website includes the following sections:
 
 - Home: Introduction to the Museum of Candy.
 - About: Information about the museum and its mission.
