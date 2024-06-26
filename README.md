@@ -2,13 +2,6 @@
 
 Welcome to the Museum of Candy website project. This project showcases a fictional museum dedicated to the wonderful world of candy.
 
-## Table of Contents
-
-- [Project Overview](#project-overview)
-- [Technologies Used](#technologies-used)
-- [Setup](#setup)
-- [Usage](#usage)
-
 ## Project Overview
 
 This project is a simple, static website for a fictional "Museum of Candy." The website features information about the museum, its exhibits, and ticketing information. It includes a responsive design to ensure it looks great on both desktop and mobile devices.
@@ -18,7 +11,6 @@ This project is a simple, static website for a fictional "Museum of Candy." The 
 - HTML5
 - CSS3
 - Bootstrap 4.1.3
-- Google Fonts
 
 ## Setup
 
