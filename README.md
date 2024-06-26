@@ -18,7 +18,7 @@ To set up this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/JeanXristianPascua/MuseumOfCandy.git
+   https://github.com/JeanXristianPascua/MuseumOfCandy.git
    ```
 2. Navigate to the project directory:
    ```bash
