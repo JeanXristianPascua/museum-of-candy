@@ -1,13 +1,19 @@
 # Museum of Candy
 
-Welcome to the Museum of Candy website project. This project showcases a fictional museum dedicated to the wonderful world of candy.
+Welcome to the **Museum of Candy** website project. This project showcases a fictional museum dedicated to the delightful world of candy.
 
 ## Project Overview
 
-This project is a simple, static website for a fictional "Museum of Candy." The website features information about the museum, its exhibits, and ticketing information. It includes a responsive design to ensure it looks great on both desktop and mobile devices.
+The **Museum of Candy** project is a static website designed to provide information about the museum, its exhibits, and ticketing details. The website boasts a responsive design to ensure a seamless experience on both desktop and mobile devices.
+
+## Key Features
+
+- **Informational Sections**: Detailed pages about the museum's exhibits and services.
+- **Responsive Design**: Optimized for both desktop and mobile browsing.
+- **User-Friendly Navigation**: Easy-to-use interface for better visitor interaction.
 
 ## Technologies Used
 
-- **HTML5**: The latest version of HTML is used to structure the content of the website.
-- **CSS**: Used for styling the website, making it visually appealing and enhancing the user experience.
-- **Bootstrap 4.1.3**: A powerful front-end framework that helps in designing responsive web pages quickly and efficiently. It includes a variety of components such as navigation bars, carousels, forms, and more.
+- **HTML5**: Structures the content of the website.
+- **CSS**: Enhances the design and user experience.
+- **Bootstrap 4.1.3**: Provides a robust framework for creating responsive and visually appealing web pages.
